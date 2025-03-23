@@ -1,7 +1,7 @@
 <?php 
  session_start();
  function isLoggedIn(){
-    return issset($_SESSION['user_id']);
+    return isset($_SESSION['user_id']);
  }
 
 function isAdmin(){
