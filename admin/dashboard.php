@@ -9,3 +9,4 @@ echo "Welcome, Admin!";
 ?>
 <a href="manage_users.php">Manage users</a>
 <a href="profile.php">upload profile image</a>
+<a href="logout.php">logout</a>
