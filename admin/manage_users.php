@@ -14,6 +14,8 @@ $result = $stmt->get_result();
 
 <h2>Manage Users</h2>
 <a href="create_user.php">Create New User</a>
+<a href="upload_file.php">upload_file</a>
+<a href="view_files.php">view_files</a>
 <table boder ="1">
     <tr>
         <th>ID</th>
